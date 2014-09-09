@@ -1,4 +1,4 @@
-Sequence
+Learning about the OTP in elixir
 ========
 
-** TODO: Add description **
+Scratch pad for creating GenServers and whatever else I learn about the OTP.
